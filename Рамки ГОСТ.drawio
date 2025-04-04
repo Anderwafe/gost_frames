@@ -1022,7 +1022,7 @@
         <mxCell id="S9PtdKr8RBbLSiUPweGG-34" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=GOST2304 Type A;fontSize=14;labelBackgroundColor=none;" parent="S9PtdKr8RBbLSiUPweGG-1" vertex="1">
           <mxGeometry x="146.68600000000004" y="1091.5559999999998" width="90.551" height="19.685" as="geometry" />
         </mxCell>
-        <object label="&lt;span&gt;Фамилия И.О.&lt;/span&gt;" placeholder="Checker" id="S9PtdKr8RBbLSiUPweGG-35">
+        <object placeholder="Checker" placeholders="1" id="S9PtdKr8RBbLSiUPweGG-35">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=GOST2304 Type A;fontSize=14;labelBackgroundColor=none;" parent="S9PtdKr8RBbLSiUPweGG-1" vertex="1">
             <mxGeometry x="146.64900000000003" y="1071.869" width="90.551" height="19.685" as="geometry" />
           </mxCell>
