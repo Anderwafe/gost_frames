@@ -905,7 +905,7 @@
   <diagram name="A4 Форма 2" id="wbTf_Rjsj9R6z3_aXD2v">
     <mxGraphModel dx="1872" dy="923" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
-        <object label="" BlueprintName="Обозначение чертежа" ProductName="Наименование изделия" Material="Материал" Manufacturer="Изготовитель" Designer="" Checker="Фамилия И.О." Approver="Фамилия И.О." Date="31.12.21" Scale="" id="S9PtdKr8RBbLSiUPweGG-0">
+        <object label="" BlueprintName="Обозначение чертежа" ProductName="Наименование изделия" Material="Материал" Manufacturer="Изготовитель" Designer="Фамилия И.О." Checker="Фамилия И.О." Approver="Фамилия И.О." Date="31.12.21" Scale="" id="S9PtdKr8RBbLSiUPweGG-0">
           <mxCell />
         </object>
         <mxCell id="S9PtdKr8RBbLSiUPweGG-1" parent="S9PtdKr8RBbLSiUPweGG-0" />
@@ -1014,7 +1014,7 @@
         <mxCell id="S9PtdKr8RBbLSiUPweGG-32" value="Утв." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=GOST2304 Type A;fontStyle=2;fontSize=14;labelBackgroundColor=none;" parent="S9PtdKr8RBbLSiUPweGG-1" vertex="1">
           <mxGeometry x="79.777" y="1130.9269999999995" width="66.929" height="19.685" as="geometry" />
         </mxCell>
-        <object placeholders="1" placeholder="Designer" label="" id="S9PtdKr8RBbLSiUPweGG-33">
+        <object placeholders="1" label="" id="S9PtdKr8RBbLSiUPweGG-33">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=GOST2304 Type A;fontSize=14;labelBackgroundColor=none;" parent="S9PtdKr8RBbLSiUPweGG-1" vertex="1">
             <mxGeometry x="146.729" y="1032.499" width="90.551" height="19.685" as="geometry" />
           </mxCell>
